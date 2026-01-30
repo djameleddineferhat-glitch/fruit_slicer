@@ -1,0 +1,79 @@
+{
+    "easy": [
+        {
+            "name": "AHL",
+            "score": 600
+        },
+        {
+            "name": "ALAID",
+            "score": 130
+        },
+        {
+            "name": "OH",
+            "score": 120
+        },
+        {
+            "name": "HELP",
+            "score": 20
+        }
+    ],
+    "normal": [
+        {
+            "name": "PROUT",
+            "score": 170
+        },
+        {
+            "name": "STONK",
+            "score": 150
+        },
+        {
+            "name": "NON",
+            "score": 40
+        }
+    ],
+    "hard": [
+        {
+            "name": "PROUT",
+            "score": 210
+        },
+        {
+            "name": "J",
+            "score": 120
+        },
+        {
+            "name": "H",
+            "score": 120
+        },
+        {
+            "name": "G",
+            "score": 110
+        },
+        {
+            "name": "L",
+            "score": 100
+        }
+    ],
+    "clavier": [
+        {
+            "name": "N",
+            "score": 440
+        },
+        {
+            "name": "JT",
+            "score": 390
+        },
+        {
+            "name": "D",
+            "score": 310
+        },
+        {
+            "name": "OSKOU",
+            "score": 270
+        },
+        {
+            "name": "EUH",
+            "score": 130
+        }
+    ],
+    "high_score": 600
+}
